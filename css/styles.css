@@ -1,0 +1,19 @@
+@import url('about.css');
+@import url('contact.css');
+@import url('download.css');
+
+/*  Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+a {
+    color: black; 
+}
+
+a:hover  {
+cursor: pointer;
+color: pink;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+}
