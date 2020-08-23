@@ -11,14 +11,9 @@
 - CSS3 
 - Bootstrap 
 
-## Landing Page 
-![Screen Shot 2020-08-21 at 9 06 22 PM](https://user-images.githubusercontent.com/70024755/90948337-6daf0980-e3f2-11ea-952b-c660f259a006.png)
-
-## About Page 
-![Screen Shot 2020-08-21 at 9 07 01 PM](https://user-images.githubusercontent.com/70024755/90948338-6ee03680-e3f2-11ea-86a4-cf3dc21ca0a4.png)
+## Main 
+![Screen Shot 2020-08-23 at 10 07 28 AM](https://user-images.githubusercontent.com/70024755/90984409-8bcb5580-e529-11ea-892a-3c629b4f0403.png)
 
 ## Downloads Page 
 ![Screen Shot 2020-08-21 at 9 07 27 PM](https://user-images.githubusercontent.com/70024755/90948339-70a9fa00-e3f2-11ea-9d04-1083e423a94b.png)
 
-## Contact Page 
-![Screen Shot 2020-08-21 at 9 07 50 PM](https://user-images.githubusercontent.com/70024755/90948340-71db2700-e3f2-11ea-9e3f-55160e3ce0b7.png)
