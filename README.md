@@ -8,8 +8,8 @@
 
 ## Tech Stack 
 - HTML5 
--CSS3 
--Bootstrap 
+- CSS3 
+- Bootstrap 
 
 ## Landing Page 
 ![Screen Shot 2020-08-21 at 9 06 22 PM](https://user-images.githubusercontent.com/70024755/90948337-6daf0980-e3f2-11ea-952b-c660f259a006.png)
